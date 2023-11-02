@@ -14,7 +14,7 @@ public class Sample {
 		a[4]=80;
 		a[3]=60;
 		a[2]=50;
-		a[5]=90;
+		a[5]=100;
 		for (int i = 0; i < a.length; i++) {
 			System.out.println(a[i]);
 		}
